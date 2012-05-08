@@ -1,0 +1,5 @@
+sc2_replaymanager.SC2_ReplayManagerView$1
+sc2_replaymanager.SC2_ReplayManagerView$2
+sc2_replaymanager.ReplayFilter
+sc2_replaymanager.ZipFilter
+sc2_replaymanager.SC2_ReplayManagerView
